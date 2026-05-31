@@ -29,7 +29,7 @@ To design an interactive Tableau dashboard that empowers sales leadership and bu
 ```
 global-sales-dashboard/
 │
-├── 📂 dataset/
+├── 📂 data/
 │   └── global_sales_dataset.csv        # 800-row AI-generated dataset
 │
 ├── 📂 dashboard/
